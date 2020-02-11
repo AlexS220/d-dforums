@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DnD Forums</string>
+    <string name="action_game">Game</string>
+    <string name="action_Post">Forum Post</string>
+
+    <string name="system_name">System</string>
+    <string name="game_title">Title</string>
+    <string name="day">Day</string>
+    <string name="time">Time</string>
+    <string name="Description">Description</string>
+    <string name="edit_day">Day</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_Description">Description</string>
+    <string name="button_addGame">Add Post</string>
+    <string name="hint_gameDescription">Write a descrpiton of the game you are running</string>
+    <string name="hint_gameTitle">Enter the games Title here</string>
+    <string name="hint_day">e.g 21/01/20</string>
+    <string name="hint_time">19:30</string>
+
+    <string name="action_forum">Forum</string>
+
+
+
+</resources>
